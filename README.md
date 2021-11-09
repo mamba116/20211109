@@ -1,3 +1,3 @@
-# Daily Course Programming for November 9th
+# Course Programming for November 9th
 
 This directory will contain our files from our previous multi-file project
